@@ -74,7 +74,8 @@ This repository currently includes:
 
 * Universe Crystal Research Report (English Edition)
 * Universe Crystal Research Report (Chinese Edition)
-* Universe Crystal Canonical Baseline
+* Universe Crystal Canonical Baseline (English)
+* Universe Crystal Canonical Baseline (Chinese)
 * Official Glossary of Universe Crystal
 * Official Terminology of Universe Crystal
 
@@ -98,9 +99,9 @@ Each document is versioned independently.
 The current public release corresponds to:
 
 * **Universe Crystal Research Report (English Edition)**
-* **Universe Crystal Canonical Baseline V1.7**
-* **Official Glossary of Universe Crystal V1.0**
-* **Official Terminology of Universe Crystal V1.0**
+* **Universe Crystal Canonical Baseline V1.8**
+* **Official Glossary of Universe Crystal V2.0**
+* **Official Terminology of Universe Crystal V2.0**
 
 Future developments will be published as independent research while preserving the stability of the Canonical Baseline.
 
