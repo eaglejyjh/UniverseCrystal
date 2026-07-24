@@ -8,24 +8,36 @@ Universe Crystal is an open philosophical framework for understanding the organi
 
 ## Official Documents
 
-- Universe Crystal Canonical Baseline
-- Official Glossary of Universe Crystal
-- Universe Crystal Official Terminology
+Explore the official semantic foundation of the project.
+
+[Official Documents](documents.md)
 
 ---
 
 ## Universe Crystal Series
 
-Read the complete research series on Medium.
+Read the complete article series.
+
+[Universe Crystal Series](series.md)
 
 ---
 
 ## Latest Release
 
-Universe Crystal Official Release v1.8
+Current official version:
+
+[Universe Crystal Official Release v1.8](releases.md)
 
 ---
 
-## GitHub Repository
+## About
 
-https://github.com/eaglejyjh/UniverseCrystal
+Learn about the project and its research principles.
+
+[About Universe Crystal](about.md)
+
+## Official Repository
+
+The complete source repository, official documents, and release history are available on GitHub.
+
+[Universe Crystal on GitHub](https://github.com/eaglejyjh/UniverseCrystal)
