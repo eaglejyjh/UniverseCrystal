@@ -10,24 +10,24 @@ The Universe Crystal Series introduces the core ideas behind the project through
 
 *Universe Crystal Series — Part 1*
 
----
+
 ## [Why Study the Evolving Universe as a Whole?](https://medium.com/@jerry.jiangheng/why-study-the-evolving-universe-as-a-whole-b7a07c5a5c65)
 
 *Universe Crystal Series — Part 2*
 
----## [Searching for the Language of Universe Crystal](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-3-searching-for-the-language-of-universe-crystal-3b8632e8b116)
+## [Searching for the Language of Universe Crystal](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-3-searching-for-the-language-of-universe-crystal-3b8632e8b116)
 
 *Universe Crystal Series — Part 3*
 
----## [Understanding Open Texture](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-4-understanding-open-texture-10a4fcd6ce16)
+## [Understanding Open Texture](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-4-understanding-open-texture-10a4fcd6ce16)
 
 *Universe Crystal Series — Part 4*
 
----## [How Can the Universe Crystal Be Woven?](https://medium.com/@jerry.jiangheng/part-5-how-can-the-universe-crystal-be-woven-f3b553df5e9e)
+## [How Can the Universe Crystal Be Woven?](https://medium.com/@jerry.jiangheng/part-5-how-can-the-universe-crystal-be-woven-f3b553df5e9e)
 
 *Universe Crystal Series — Part 5*
 
----## [How Does an Open Texture Begin Weaving?](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-6-how-does-an-open-texture-begin-weaving-da730cf7b2b1)
+## [How Does an Open Texture Begin Weaving?](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-6-how-does-an-open-texture-begin-weaving-da730cf7b2b1)
 
 *Universe Crystal Series — Part 6*
 
