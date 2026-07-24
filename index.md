@@ -41,3 +41,11 @@ Learn about the project and its research principles.
 The complete source repository, official documents, and release history are available on GitHub.
 
 [Universe Crystal on GitHub](https://github.com/eaglejyjh/UniverseCrystal)
+
+## Contact
+
+For research discussions, collaboration, or academic inquiries:
+
+- Email: jerry.jiangheng@gmail.com
+- GitHub: https://github.com/eaglejyjh
+- Medium: https://medium.com/@jerry.jiangheng
