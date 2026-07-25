@@ -1,5 +1,5 @@
-```markdown
 [🏠 Home](index.md)
+
 # About Universe Crystal
 
 ## What is Universe Crystal?
@@ -67,5 +67,5 @@ Rather than proposing an alternative to established scientific theories, Univers
 By taking the evolving universe as a whole as its subject and approaching it through A Grand View, the project aims to deepen our understanding of how existence, organization, identity, and increasingly complex structures emerge throughout cosmic evolution.
 
 © 2026 Universe Crystal Project
-```
+
 
