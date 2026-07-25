@@ -47,5 +47,4 @@ The complete source repository, official documents, and release history are avai
 For research discussions, collaboration, or academic inquiries:
 
 - Email: jerry.jiangheng@gmail.com
-- GitHub: https://github.com/eaglejyjh
-- Medium: https://medium.com/@jerry.jiangheng
+- [Medium](https://medium.com/@jerry.jiangheng)
