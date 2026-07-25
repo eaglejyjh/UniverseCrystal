@@ -1,3 +1,5 @@
+[🏠 Home](index.md)
+
 # Universe Crystal Series
 
 The Universe Crystal Series introduces the core ideas behind the project through a sequence of Medium articles.
