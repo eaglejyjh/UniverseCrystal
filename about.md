@@ -1,4 +1,5 @@
 ```markdown
+[🏠 Home](index.md)
 # About Universe Crystal
 
 ## What is Universe Crystal?
