@@ -38,3 +38,5 @@ The series offers readers an opportunity to follow the research process itself a
 
 ---
 Read the complete series on Medium.
+
+© 2026 Universe Crystal Project
