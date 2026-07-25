@@ -65,5 +65,7 @@ Modern science has achieved remarkable success in explaining many aspects of the
 Rather than proposing an alternative to established scientific theories, Universe Crystal seeks to develop a coherent conceptual framework that complements modern scientific knowledge from the perspective of natural philosophy.
 
 By taking the evolving universe as a whole as its subject and approaching it through A Grand View, the project aims to deepen our understanding of how existence, organization, identity, and increasingly complex structures emerge throughout cosmic evolution.
+
+© 2026 Universe Crystal Project
 ```
 
