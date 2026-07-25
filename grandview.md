@@ -6,19 +6,21 @@
 
 The Universe Crystal Grand View represents the overall perspective of the project.
 
-Rather than studying individual objects separately, Universe Crystal begins with the evolving universe as an integrated whole. Every concept, every organization, and every level of existence is understood within this unified perspective.
+Universe Crystal is **not** the universe observed by any particular organization. It is not the world understood by a single observer, a single timeline, a single history, or a collection of observations.
+
+Instead, Universe Crystal is a theoretical framework for describing the overall organizational structure of the continuously evolving universe as an integrated whole.
 
 The Grand View serves as the conceptual foundation of the entire project and provides the context in which all subsequent concepts are introduced and understood.
 
 ---
 
-## Understanding the Universe as a Whole
+## The Universe as an Integrated Whole
 
-Universe Crystal proposes that the universe should first be understood as an evolving whole before examining its individual components.
+Universe Crystal begins with the evolving universe as an integrated whole before examining its individual components.
 
-Instead of asking only how isolated objects behave, the project asks how increasingly complex forms of existence emerge through the continuous evolution of the universe.
+Rather than asking only how isolated objects behave, the project asks how increasingly complex forms of organization emerge throughout the continuous evolution of the universe.
 
-From this perspective, elementary particles, atoms, molecules, stars, galaxies, planets, and life are not isolated subjects but different organizational levels within the same evolutionary process.
+From this perspective, elementary particles, atoms, molecules, stars, galaxies, planets, and life are understood as different organizational levels within the same evolutionary process.
 
 ---
 
@@ -34,11 +36,39 @@ From this perspective, geometry provides the conceptual foundation for exploring
 
 ## Organization and Emergence
 
-Universe Crystal views organization as a fundamental characteristic of existence.
+From the Grand View, the continuously evolving universe is woven through countless interactions among organizations.
 
-As relations become increasingly organized, more stable structures emerge. These structures can continue evolving into higher levels of organization, gradually giving rise to the rich hierarchy observed throughout the universe.
+Each organizational interaction constitutes a fundamental **Event**, giving rise to **Open Texture**. As interactions continue, Open Texture accumulates, **Stable Closure** emerges, new organizations appear, and increasingly complex organizational hierarchies are formed.
 
-This perspective allows existence to be understood as a continuous process of organizational evolution rather than as a collection of isolated independent objects.
+Universe Crystal therefore encompasses the overall organizational structure of the evolving universe, including:
+
+- **Open Texture**
+- **Stable Closed Texture**
+- **Organizations**
+- **Organization Hierarchy**
+- **The Whole Crystal**
+
+---
+
+## Whole and Local
+
+Universe Crystal describes the evolving universe from the perspective of the whole rather than from the viewpoint of any individual organization.
+
+Within this framework, there is no privileged observer, no single organization, no single consciousness, and no preferred reference frame.
+
+Universe Crystal describes the overall organizational structure of the evolving universe itself, while every organization exists only as a local part within that whole.
+
+---
+
+## Interpretation
+
+Every organization develops its own understanding of the universe according to the propagation relations available within its own organizational system.
+
+Consequently, the universe understood by any organization is **not** the Universe Crystal itself. It is an **interpretation** constructed from the propagation relations available to that organization.
+
+Universe Crystal describes the whole.
+
+Every organization can only construct its own local interpretation of that whole.
 
 ---
 
