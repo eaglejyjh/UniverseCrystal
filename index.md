@@ -52,7 +52,7 @@ Follow the discovery journey of Universe Crystal through the official article se
 
 Access the official publications of the project, including the Canonical Baseline, Foundation Research Report, Official Glossary, Official Terminology, and other versioned releases.
 
-[Universe Crystal Publications](release.md)
+[Universe Crystal Publications](releases.md)
 
 ---
 
