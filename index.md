@@ -58,11 +58,11 @@ Access the official publications of the project, including the Canonical Baselin
 
 ## Contact
 
-Questions, discussions, and collaboration are welcome.
+The Universe Crystal Project welcomes questions, discussions, collaborations, and constructive feedback.
 
 - Email: jerry.jiangheng@gmail.com
-- GitHub Repository: https://github.com/eaglejyjh/UniverseCrystal
-- Medium: https://medium.com/@jerry.jiangheng
+- [GitHub Repository](https://github.com/eaglejyjh/UniverseCrystal)
+- [Medium](https://medium.com/@jerry.jiangheng)
 
 ---
 
