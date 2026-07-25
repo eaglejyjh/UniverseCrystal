@@ -1,4 +1,3 @@
-```markdown
 [🏠 Home](index.md)
 
 # Universe Crystal Core Concepts
@@ -66,4 +65,4 @@ The complete conceptual framework includes many additional concepts, including:
 Explore the **Universe Crystal Official Glossary** to learn more about the complete conceptual framework.
 
 © 2026 Universe Crystal Project
-```
+
