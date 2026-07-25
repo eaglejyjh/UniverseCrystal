@@ -1,8 +1,11 @@
 [🏠 Home](index.md)
 
-# Universe Crystal Series
+# Universe Crystal Discovery Series
 
-The Universe Crystal Series introduces the core ideas behind the project through a sequence of Medium articles.
+Universe Crystal did not emerge as a complete theory. It developed gradually through continuous questioning, observation, and conceptual refinement.
+The Discovery Series documents this journey. Rather than presenting only final conclusions, it records how individual ideas gradually evolved into a coherent conceptual framework.
+The series offers readers an opportunity to follow the research process itself and understand how the project has developed over time.
+
 
 ---
 
