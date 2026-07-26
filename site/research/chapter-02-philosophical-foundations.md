@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 2. Philosophical Foundations
 
 ## 2.1 Why a Holistic Perspective?
