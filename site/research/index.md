@@ -48,6 +48,6 @@ This report is published incrementally as the research progresses. Completed cha
 
 - [Conclusion](conclusion.md)
 
-
+---
 
 © Universe Crystal Project
