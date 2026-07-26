@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 6. Organization Hierarchy
 
 ## 6.1 Why Is an Organization Hierarchy Necessary?
