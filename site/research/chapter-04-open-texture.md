@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 4. Open Texture
 
 ## 4.1 The First-Principle Object
