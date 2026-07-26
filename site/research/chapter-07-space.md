@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 7. Space
 
 ## 7.1 Is Space a First-Principle Object?
