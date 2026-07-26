@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 3. Core Axioms
 
 ## 3.1 Why Are Axioms Necessary?
