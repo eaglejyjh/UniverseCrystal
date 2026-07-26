@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 1. Introduction
 
 ## 1.1 Why Universe Crystal?
