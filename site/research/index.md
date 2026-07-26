@@ -1,3 +1,5 @@
+[🏠 Home](index.md)
+
 # Universe Crystal Research Report
 
 The **Foundation Research Report** is the principal research publication of the Universe Crystal Project.
@@ -46,10 +48,6 @@ This report is published incrementally as the research progresses. Completed cha
 
 - [Conclusion](conclusion.md)
 
----
 
-[🏠 Home](../../index.md)
-
----
 
 © Universe Crystal Project
