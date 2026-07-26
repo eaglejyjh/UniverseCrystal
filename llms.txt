@@ -12,6 +12,20 @@ Main Pages
 /concepts.html
 /series.html
 /releases.html
+/site/research/index.html
+/site/research/preface.html
+/site/research/chapter-01-introduction.html
+/site/research/chapter-02-philosophical-foundations.html
+/site/research/chapter-03-core-axioms.html
+/site/research/chapter-04-open-texture.html
+/site/research/chapter-05-stable-closed-texture.html
+/site/research/chapter-06-organization-hierarchy.html
+/site/research/chapter-07-space.html
+/site/research/chapter-08-time.html
+/site/research/chapter-09-organizational-reading.html
+/site/research/chapter-10-degrees-of-organization.html
+/site/research/chapter-11-crystal-evolution.html
+/site/research/conclusion.html
 
 Official Publications
 
