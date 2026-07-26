@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 5. Stable Closed Texture
 
 ## 5.1 Why Is Stable Existence Necessary?
