@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 10. Degrees of Organization
 
 ## 10.1 Why Are Degrees of Organization Necessary?
