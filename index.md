@@ -30,6 +30,18 @@ Explore the conceptual framework of Universe Crystal, including Open Texture, Or
 
 ---
 
+## Universe Crystal Research Report
+
+Read the official research report of the Universe Crystal Project.
+
+The **Universe Crystal Research Report** presents the project's current philosophical framework for understanding the organizational structure of the evolving universe as an integrated whole.
+
+Based on the current Canonical Baseline, the report systematically introduces the project's core concepts, philosophical foundations, organizational ontology, and conceptual framework.
+
+[Universe Crystal Research Report](site/research/index.md)
+
+---
+
 ## Universe Crystal Discovery Series
 
 Follow the official Universe Crystal Discovery Series, which documents the project's discovery journey and gradually introduces its ideas, conceptual framework, and research philosophy.
