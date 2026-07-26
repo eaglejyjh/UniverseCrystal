@@ -1,24 +1,10 @@
-# Universe Crystal
+## What Is Universe Crystal?
 
-*A long-term original research project in natural philosophy exploring the nature of the evolving universe as a whole through A Grand View.*
+Universe Crystal is a long-term original research project dedicated to exploring the evolving universe as a whole through A Grand View.
 
----
+Rather than studying individual phenomena in isolation, the project seeks to develop a unified conceptual framework for understanding existence, organization, identity, and the fundamental principles underlying the universe.
 
-## Welcome
-
-Welcome to the official website of the Universe Crystal Project.
-
-Universe Crystal is a long-term original research project dedicated to exploring the evolving universe as a whole. Rather than studying individual phenomena in isolation, the project seeks to develop a unified conceptual framework for understanding existence, organization, identity, and the fundamental principles underlying the universe.
-
-This website serves as the central hub for the project's concepts, publications, and ongoing research.
-
-Universe Crystal is an open and continuously evolving long-term research project. Its concepts and publications will continue to develop through ongoing research, discussion, and refinement.
-
----
-
-## About Universe Crystal
-
-Learn about the vision, mission, research philosophy, and current stage of the Universe Crystal Project.
+This website serves as the central hub for the project's concepts, publications, and ongoing research. As the research progresses, its concepts and publications will continue to be refined and expanded through ongoing research, discussion, and exploration.
 
 [About Universe Crystal](about.md)
 
@@ -26,7 +12,7 @@ Learn about the vision, mission, research philosophy, and current stage of the U
 
 ## Universe Crystal Grand View
 
-Discover the overall perspective that guides the entire project and explains why Universe Crystal studies the evolving universe as an integrated whole.
+Explore the Grand View that guides the project and explains why the evolving universe should be understood as an integrated whole.
 
 [Universe Crystal Grand View](grandview.md)
 
@@ -34,31 +20,31 @@ Discover the overall perspective that guides the entire project and explains why
 
 ## Universe Crystal Core Concepts
 
-Explore the core concepts that form the conceptual language of Universe Crystal, including Open Texture, Organization, Stable Closure, Identity, and other foundational concepts.
+Explore the conceptual framework of Universe Crystal, including Open Texture, Organization, Stable Closure, Identity, and other foundational concepts.
 
 [Universe Crystal Core Concepts](concepts.md)
 
 ---
 
-## Universe Crystal Discovery
+## Universe Crystal Discovery Series
 
-Follow the discovery journey of Universe Crystal through the official article series, which gradually introduces the project's ideas and conceptual framework.
+Follow the official Universe Crystal Discovery Series, which documents the project's discovery journey and gradually introduces its ideas, conceptual framework, and research philosophy.
 
-[Universe Crystal Discovery](series.md)
+[Universe Crystal Discovery Series](series.md)
 
 ---
 
-## Universe Crystal Publications
+## Publications & Downloads
 
-Access the official publications of the project, including the Canonical Baseline, Foundation Research Report, Official Glossary, Official Terminology, and other versioned releases.
+Download the official publications of the Universe Crystal Project, including the Canonical Baseline, Foundation Research Report, Official Glossary, Official Terminology, and other versioned releases.
 
-[Universe Crystal Publications](releases.md)
+[Publications & Downloads](releases.md)
 
 ---
 
 ## Contact
 
-The Universe Crystal Project welcomes questions, discussions, collaborations, and constructive feedback.
+Questions, discussions, constructive feedback, and academic exchanges are always welcome.
 
 - Email: jerry.jiangheng@gmail.com
 - [GitHub Repository](https://github.com/eaglejyjh/UniverseCrystal)
