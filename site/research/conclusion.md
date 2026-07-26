@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Conclusion
 
 Universe Crystal is not proposed as a new physical theory.
