@@ -1,3 +1,7 @@
+---
+title: Universe Crystal
+---
+
 # Chapter 9. Organizational Reading
 
 ## 9.1 Why Is Organizational Reading Necessary?
