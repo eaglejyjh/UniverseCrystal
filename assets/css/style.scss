@@ -3,8 +3,30 @@
 
 @import "{{ site.theme }}";
 
-/* Universe Crystal Website */
+/* ======================================
+   Universe Crystal Official Website
+   ====================================== */
 
+/* Header */
 .page-header {
-    padding: 2rem 1rem;
+    padding: 0.8rem 1rem;
+}
+
+/* Project Title */
+.project-name {
+    font-size: 2.4rem;
+    margin-bottom: 0.2rem;
+}
+
+/* Project Description */
+.project-tagline {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 0.6rem;
+    opacity: 0.9;
+}
+
+/* GitHub Button */
+.btn {
+    margin-top: 0.3rem;
 }
