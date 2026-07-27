@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 7. Space
 
 ## 7.1 Is Space a First-Principle Object?
@@ -171,7 +173,7 @@ It emerges from organization and is understood as the macroscopic geometric mani
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 6](chapter-06-organization-hierarchy.md) | [Research Report](index.md) | [Chapter 8 →](chapter-08-time.md)
 
 ---
 
