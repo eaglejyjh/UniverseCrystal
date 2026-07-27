@@ -35,7 +35,7 @@
     <loc>https://eaglejyjh.github.io/UniverseCrystal/series.html</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
@@ -140,6 +140,65 @@
   <url>
     <loc>https://eaglejyjh.github.io/UniverseCrystal/site/research/conclusion.html</loc>
     <lastmod>2026-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/review.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/copyright.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-01.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-02.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-03.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-04.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+     </url>
+      <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-05.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-06.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eaglejyjh.github.io/UniverseCrystal/discovery/part-07.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
