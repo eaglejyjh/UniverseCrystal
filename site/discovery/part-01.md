@@ -71,7 +71,7 @@ Comments, questions, and constructive feedback are welcome.
 
 ---
 
-[Discovery Series](../../series.md) | [Part 2 →](part-02.html)
+[Discovery Series](../../series.md) | [Part 2 →](part-02.md)
 
 ---
 
