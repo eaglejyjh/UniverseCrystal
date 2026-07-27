@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 3. Core Axioms
 
 ## 3.1 Why Are Axioms Necessary?
@@ -171,7 +173,7 @@ Building upon these axioms, the following chapters introduce the **First-Princip
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 2](chapter-02-philosophical-foundations.md) | [Research Report](index.md) | [Chapter 4 →](chapter-04-open-texture.md)
 
 ---
 
