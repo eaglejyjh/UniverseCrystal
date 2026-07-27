@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 2. Philosophical Foundations
 
 ## 2.1 Why a Holistic Perspective?
@@ -127,7 +129,7 @@ Together, these philosophical principles provide the conceptual foundation upon 
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 1](chapter-01-introduction.md) | [Research Report](index.md) | [Chapter 3 →](chapter-03-core-axioms.md)
 
 ---
 
