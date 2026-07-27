@@ -88,7 +88,7 @@ An earlier version was first published on Medium, where readers are welcome to j
 
 ---
 
-[← Part 3](part-03.html) | [Discovery Series](../../series.md) | [Part 5 →](part-05.html)
+[← Part 3](part-03.md) | [Discovery Series](../../series.md) | [Part 5 →](part-05.md)
 
 ---
 
