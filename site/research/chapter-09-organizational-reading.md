@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 9. Organizational Reading
 
 ## 9.1 Why Is Organizational Reading Necessary?
@@ -234,7 +236,7 @@ It is through this concept that Universe Crystal achieves a unified organization
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 8](chapter-08-time.md) | [Research Report](index.md) | [Chapter 10 →](chapter-10-degrees-of-organization.md)
 
 ---
 
