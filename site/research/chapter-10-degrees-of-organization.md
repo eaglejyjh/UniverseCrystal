@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 10. Degrees of Organization
 
 ## 10.1 Why Are Degrees of Organization Necessary?
@@ -216,7 +218,7 @@ Accordingly,
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 9](chapter-09-organizational-reading.md) | [Research Report](index.md) | [Chapter 11 →](chapter-11-crystal-evolution.md)
 
 ---
 
