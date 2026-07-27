@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 1. Introduction
 
 ## 1.1 Why Universe Crystal?
@@ -106,7 +108,7 @@ The purpose of this report is not to document the historical development of the 
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Preface](preface.md) | [Research Report](index.md) | [Chapter 2 →](chapter-02-philosophical-foundations.md)
 
 ---
 
