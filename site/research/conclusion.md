@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Conclusion
 
 Universe Crystal is not proposed as a new physical theory.
@@ -50,7 +52,7 @@ Future research will continue through independent research projects while preser
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 11](chapter-11-crystal-evolution.md) | [Research Report](index.md)
 
 ---
 
