@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 5. Stable Closed Texture
 
 ## 5.1 Why Is Stable Existence Necessary?
@@ -196,7 +198,7 @@ Rather, they are local manifestations of stable organizational closure within th
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 4](chapter-04-open-texture.md) | [Research Report](index.md) | [Chapter 6 →](chapter-06-organization-hierarchy.md)
 
 ---
 
