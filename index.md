@@ -58,13 +58,18 @@ Download the official publications of the Universe Crystal Project, including th
 
 ---
 
-## Contact
+## Author
 
-Questions, discussions, constructive feedback, and academic exchanges are always welcome.
+**Heng Jiang**
+
+Founder of the **Universe Crystal Project**.
+
+Universe Crystal is an independent research project in natural philosophy dedicated to exploring the evolving universe as a whole through **A Grand View**.
+
+Reviews, discussions, constructive feedback, and academic exchanges are always welcome.
 
 - Email: jerry.jiangheng@gmail.com
-- [GitHub Repository](https://github.com/eaglejyjh/UniverseCrystal)
-- [Medium](https://medium.com/@jerry.jiangheng)
+- Medium: https://medium.com/@jerry.jiangheng
 
 ---
 
