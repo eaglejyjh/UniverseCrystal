@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 8. Time
 
 ## 8.1 Is Time a First-Principle Object?
@@ -219,7 +221,7 @@ It is an emergent organizational property resulting from the continuing developm
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 7](chapter-07-space.md) | [Research Report](index.md) | [Chapter 9 →](chapter-09-organizational-reading.md)
 
 ---
 
