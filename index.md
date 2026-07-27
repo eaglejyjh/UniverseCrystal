@@ -58,6 +58,24 @@ Download the official publications of the Universe Crystal Project, including th
 
 ---
 
+## Review Universe Crystal
+
+We welcome thoughtful reviews, constructive criticism, and academic discussion from researchers, students, engineers, philosophers, and anyone interested in fundamental questions.
+
+Your feedback helps improve the clarity, consistency, and development of the Universe Crystal framework.
+
+➡️ **[Review Universe Crystal](review.md)**
+
+---
+
+## Copyright & License
+
+Learn about the copyright, licensing terms, and citation guidelines for the Universe Crystal Project.
+
+➡️ **[Copyright & License](copyright.md)**
+
+---
+
 ## Author
 
 **Heng Jiang**
