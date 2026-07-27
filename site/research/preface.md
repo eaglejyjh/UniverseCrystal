@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Preface
 
 Humanity has developed remarkably successful scientific theories for understanding the universe.
@@ -24,7 +26,7 @@ For this reason, the present report is written in the style of a philosophical r
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[Research Report](index.md) | [Chapter 1 →](chapter-01-introduction.md)
 
 ---
 
