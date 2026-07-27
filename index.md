@@ -87,7 +87,7 @@ Universe Crystal is an independent research project in natural philosophy dedica
 Reviews, discussions, constructive feedback, and academic exchanges are always welcome.
 
 - Email: jerry.jiangheng@gmail.com
-- Medium: https://medium.com/@jerry.jiangheng
+- Medium: [@jerry.jiangheng](https://medium.com/@jerry.jiangheng)
 
 ---
 
