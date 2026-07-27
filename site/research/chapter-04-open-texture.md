@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 4. Open Texture
 
 ## 4.1 The First-Principle Object
@@ -278,7 +280,7 @@ Open Texture therefore constitutes both the **Fundamental Organizational Texture
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 3](chapter-03-core-axioms.md) | [Research Report](index.md) | [Chapter 5 →](chapter-05-stable-closed-texture.md)
 
 ---
 
