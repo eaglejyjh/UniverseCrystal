@@ -64,7 +64,7 @@ We welcome thoughtful reviews, constructive criticism, and academic discussion f
 
 Your feedback helps improve the clarity, consistency, and development of the Universe Crystal framework.
 
-➡️ **[Review Universe Crystal](review.md)**
+[Review Universe Crystal](review.md)
 
 ---
 
@@ -72,7 +72,7 @@ Your feedback helps improve the clarity, consistency, and development of the Uni
 
 Learn about the copyright, licensing terms, and citation guidelines for the Universe Crystal Project.
 
-➡️ **[Copyright & License](copyright.md)**
+[Copyright & License](copyright.md)
 
 ---
 
