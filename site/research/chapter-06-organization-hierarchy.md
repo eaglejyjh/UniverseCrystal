@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 6. Organization Hierarchy
 
 ## 6.1 Why Is an Organization Hierarchy Necessary?
@@ -198,7 +200,7 @@ The richness of the universe arises not from an ever-growing collection of funda
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 5](chapter-05-stable-closed-texture.md) | [Research Report](index.md) | [Chapter 7 →](chapter-07-space.md)
 
 ---
 
