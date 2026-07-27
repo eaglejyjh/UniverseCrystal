@@ -150,7 +150,7 @@ This article is officially published on the Universe Crystal website.
 
 An earlier version was first published on Medium, where readers are welcome to join the discussion.
 
-**→ [Read and comment on Medium](https://medium.com/)**
+**→ [Read and comment on Medium](https://medium.com/@jerry.jiangheng/universe-crystal-discovery-series-part-7-why-does-self-closed-propagation-become-existence-3d1c18fbc3ad?sharedUserId=jerry.jiangheng)**
 
 ---
 
