@@ -142,7 +142,7 @@ An earlier version was first published on Medium, where readers are welcome to j
 
 ---
 
-[← Part 2](part-02.html) | [Discovery Series](../../series.md) | [Part 4 →](part-04.html)
+[← Part 2](part-02.md) | [Discovery Series](../../series.md) | [Part 4 →](part-04.md)
 
 ---
 
