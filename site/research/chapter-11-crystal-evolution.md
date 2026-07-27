@@ -2,6 +2,8 @@
 title: Universe Crystal
 ---
 
+[🏠 Home](../../index.md) | [← Research Report](index.md)
+
 # Chapter 11. Crystal Evolution
 
 ## 11.1 Why Does the Universe Evolve?
@@ -206,7 +208,7 @@ Universe Crystal presents the universe as an integrated organizational whole tha
 
 ---
 
-[← Universe Crystal Research Report](index.md) | [🏠 Home](../../index.md)
+[← Chapter 10](chapter-10-degrees-of-organization.md) | [Research Report](index.md) | [Conclusion →](conclusion.md)
 
 ---
 
