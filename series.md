@@ -2,41 +2,32 @@
 
 # Universe Crystal Discovery Series
 
-Universe Crystal did not emerge as a complete theory. It developed gradually through continuous questioning, observation, and conceptual refinement.
-The Discovery Series documents this journey. Rather than presenting only final conclusions, it records how individual ideas gradually evolved into a coherent conceptual framework.
-The series offers readers an opportunity to follow the research process itself and understand how the project has developed over time.
+The **Universe Crystal Discovery Series** documents the conceptual journey behind the Universe Crystal Project.
 
+Rather than presenting only the current framework, the series records how individual questions gradually evolved into a coherent philosophical perspective. Each article explores a single question and represents one step in the evolution of the research.
+
+The articles published in this series are the official versions maintained on the Universe Crystal website.
+
+Earlier versions of these articles were first published on Medium to invite public discussion and feedback during the development of the project.
 
 ---
 
 ## Published Articles
 
-## [Why I Started the Universe Crystal Research Project?](https://medium.com/@jerry.jiangheng/why-i-started-the-universe-crystal-research-project-576e3dd2b020?sharedUserId=jerry.jiangheng)
+### Part 1 — [Why I Started the Universe Crystal Research Project?](site/discovery/part-01.md)
 
-*Universe Crystal Series — Part 1*
+### Part 2 — [Why Study the Evolving Universe as a Whole?](site/discovery/part-02.md)
 
+### Part 3 — [Searching for the Language of Universe Crystal](site/discovery/part-03.md)
 
-## [Why Study the Evolving Universe as a Whole?](https://medium.com/@jerry.jiangheng/why-study-the-evolving-universe-as-a-whole-b7a07c5a5c65)
+### Part 4 — [Understanding Open Texture](site/discovery/part-04.md)
 
-*Universe Crystal Series — Part 2*
+### Part 5 — [How Can the Universe Crystal Be Woven?](site/discovery/part-05.md)
 
-## [Searching for the Language of Universe Crystal](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-3-searching-for-the-language-of-universe-crystal-3b8632e8b116)
+### Part 6 — [How Does an Open Texture Begin Weaving?](site/discovery/part-06.md)
 
-*Universe Crystal Series — Part 3*
-
-## [Understanding Open Texture](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-4-understanding-open-texture-10a4fcd6ce16)
-
-*Universe Crystal Series — Part 4*
-
-## [How Can the Universe Crystal Be Woven?](https://medium.com/@jerry.jiangheng/part-5-how-can-the-universe-crystal-be-woven-f3b553df5e9e)
-
-*Universe Crystal Series — Part 5*
-
-## [How Does an Open Texture Begin Weaving?](https://medium.com/@jerry.jiangheng/universe-crystal-series-part-6-how-does-an-open-texture-begin-weaving-da730cf7b2b1)
-
-*Universe Crystal Series — Part 6*
+### Part 7 — [Why Does Self-Closed Propagation Become Existence?](site/discovery/part-07.md)
 
 ---
-Read the complete series on Medium.
 
 © 2026 Universe Crystal Project
