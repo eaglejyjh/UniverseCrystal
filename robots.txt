@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eaglejyjh.github.io/UniverseCrystal/sitemap.xml
+Sitemap: https://universecrystal.org/sitemap.xml
