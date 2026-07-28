@@ -1,5 +1,14 @@
 [🏠 Home](index.md)
 
+## Project Milestones
+
+| Date | Milestone | Description |
+|------------|-----------|-------------|
+| 2026-07-27 | Official Presence Established | Official website launched, Google indexing established, and **"Universe Crystal"** became the top Google search result. |
+| 2026-07-28 | Official Domain Activated | **universecrystal.org** became the official website and primary public entry point for the project. |
+
+---
+
 # Universe Crystal Publications
 
 The official publications of the Universe Crystal Project provide the canonical references for the project's conceptual framework and ongoing research.
