@@ -58,6 +58,16 @@ Download the official publications of the Universe Crystal Project, including th
 
 ---
 
+## Project Log
+
+Follow the development of the Universe Crystal Project through its major milestones.
+
+The Project Log records the evolution of the project itself, including website development, infrastructure, publications, community building, and other significant milestones. It serves as a chronological record of how the project has grown over time.
+
+[Project Log](project-log.md)
+
+---
+
 ## Review Universe Crystal
 
 We welcome thoughtful reviews, constructive criticism, and academic discussion from researchers, students, engineers, philosophers, and anyone interested in fundamental questions.
