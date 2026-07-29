@@ -2,6 +2,10 @@
 
 **A Philosophical Framework for Understanding the Organizational Structure of the Universe**
 
+🌐 **Official Website:** https://universecrystal.org
+
+The official website contains the latest publications, Discovery Series, research notes, and project updates.
+
 ---
 
 ## Overview
@@ -15,6 +19,18 @@ It does **not** seek to replace modern physics.
 Instead, it offers a philosophical framework for understanding the universe as an indivisible organizational whole across all space and time.
 
 Within this framework, concepts such as **Open Texture**, **Stable Closed Texture**, **Organization Hierarchy**, **Organizational Reading**, **Space**, and **Time** are interpreted through a unified organizational perspective.
+
+---
+
+## Official Resources
+
+The **official website** is the primary entry point for readers and provides the latest released content.
+
+This **GitHub repository** is used for version control, source publication, and document history.
+
+For the latest public releases, please visit:
+
+🌐 https://universecrystal.org
 
 ---
 
