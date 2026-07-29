@@ -17,6 +17,15 @@ The official website was successfully linked with Google Search Console, allowin
 
 The official website was not yet returned by Google Search for the query **"Universe Crystal"** after the domain migration.
  Search indexing and domain transition remained in progress.
+
+#### Investigating an Unusual Traffic Pattern
+
+While reviewing GitHub repository statistics, an unexpected pattern was observed:
+
+- Unique Cloners: **208**
+- Unique Visitors: **11**
+
+The significant gap raised questions about how users were finding the repository and became the starting point for a broader effort to improve the project's website, SEO, and analytics.
  
 ---
 
