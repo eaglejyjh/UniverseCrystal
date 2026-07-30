@@ -92,10 +92,11 @@ Learn about the copyright, licensing terms, and citation guidelines for the Univ
 
 Founder of the **Universe Crystal Project**.
 
-Universe Crystal is an independent research project in natural philosophy dedicated to exploring the evolving universe as a whole through **A Grand View**.
+Heng Jiang is a product management professional with experience in FinTech and Telecommunications BSS.
 
-Reviews, discussions, constructive feedback, and academic exchanges are always welcome.
+Outside of his professional career, he has a long-standing interest in the fundamental principles governing the universe, which led him to initiate the Universe Crystal Project.
 
+Contact:
 - Email: jerry.jiangheng@gmail.com
 - Medium: [@jerry.jiangheng](https://medium.com/@jerry.jiangheng)
 
