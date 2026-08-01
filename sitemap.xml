@@ -143,13 +143,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!--  2026-08-31 remove Review.html
 <url>
     <loc>https://universecrystal.org/review.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
+-->
   <url>
     <loc>https://universecrystal.org/copyright.html</loc>
     <lastmod>2026-07-27</lastmod>
