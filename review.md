@@ -45,26 +45,14 @@ Constructive criticism is especially valuable.
 
 ---
 
-## How to Submit Feedback
+## Feedback
 
-You are welcome to share your thoughts through any of the following channels:
+Feedback and academic discussion are welcome.
 
-- Open a GitHub Issue
-- Start a GitHub Discussion
-- Leave comments on Medium articles
-- Contact via email
-
-### GitHub Issues & Discussions
-
-<https://github.com/eaglejyjh/UniverseCrystal>
-
-### Medium
-
-<https://medium.com/@jerry.jiangheng>
-
-### Email
-
-<jerry.jiangheng@gmail.com>
+- Comment directly at the bottom of any page.
+- GitHub: https://github.com/eaglejyjh/UniverseCrystal
+- Medium: https://medium.com/@jerry.jiangheng
+- Email: jerry.jiangheng@gmail.com
 
 ---
 
