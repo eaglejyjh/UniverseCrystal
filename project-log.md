@@ -2,6 +2,19 @@
 
 ## 2026
 
+### Aug. 1, 2026
+
+#### July 2026 Global Visitors
+
+By the end of July, the website had attracted 39 active users during its first two weeks online. The largest audience came from the United States (18), followed by Malaysia (8) and Poland (4), indicating the project's initial international visibility.
+
+#### Discussion Feature Added
+ 
+A discussion section has been added to every page of the official website.
+Readers can now comment and participate in discussions directly below each article.
+
+---
+
 ### July 30, 2026
 
 #### Official Website Appears as #1 Result for "Universe Crystal"**
