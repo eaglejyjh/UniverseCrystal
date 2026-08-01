@@ -77,7 +77,7 @@ The official website frequently appeared as the first Google search result for t
 ---
 
 
-### July 18~26, 2026
+### July 20~26, 2026
 
 #### Building the Official Website
 
@@ -86,6 +86,15 @@ Development of the official website for the Universe Crystal Project began.
 The project adopted GitHub Pages with Markdown as its publishing platform, providing a lightweight and maintainable solution that allowed research content to be updated with minimal overhead.
 
 During evenings and over the weekend, the initial website structure, navigation, publications, and core content pages were completed, laying the foundation for the project's public presence.
+
+---
+
+
+### July 16, 2026
+
+#### The First Public Article
+
+The original plan was to publish Universe Crystal on Reddit. After discovering that a newly created Reddit account could not post immediately, I shifted to Medium instead. That unexpected decision led to the publication of the first article, "Why I Started Universe Crystal Project," which became the project's first public introduction.
 
 ---
 
