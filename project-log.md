@@ -1,42 +1,74 @@
 [🏠 Home](index.md)
 
-## 2026
+# Universe Crystal Project Logs
 
-### Aug. 1, 2026
+A chronological record of major milestones in the development of the Universe Crystal Project.
 
-#### July 2026 Global Visitors
+---
 
-By the end of July, the website had attracted 39 active users during its first two weeks online. The largest audience came from the United States (18), followed by Malaysia (8) and Poland (4), indicating the project's initial international visibility.
+## Project Log 008
 
-#### Discussion Feature Added
- 
+**Date:** Aug. 1, 2026
+
+### From Discovery to Essays
+
+Completed the foundational framework from Open Texture to Second Level Organization, incorporating Interlocking Texture, Organizational Degree of Freedom, and Organizational Space into Canonical Baseline V2.0.
+
+With the core framework now established, the project will gradually shift from the Discovery Series, which documented the journey of building the framework, to Universe Crystal Essays, where each essay explores a single scientific-philosophical question through the established Universe Crystal framework.
+
+---
+
+## Project Log 007
+
+**Date:** Aug. 1, 2026
+
+### Discussion Feature Added
+
 A discussion section has been added to every page of the official website.
+
 Readers can now comment and participate in discussions directly below each article.
 
 ---
 
-### July 30, 2026
+## Project Log 006
 
-#### Official Website Appears as #1 Result for "Universe Crystal"**
+**Date:** Aug. 1, 2026
+
+### July 2026 Global Visitors
+
+By the end of July, the website had attracted 39 active users during its first two weeks online. The largest audience came from the United States (18), followed by Malaysia (8) and Poland (4), indicating the project's initial international visibility.
+
+---
+
+## Project Log 005
+
+**Date:** July 30, 2026
+
+### Official Website Appears as #1 Result for "Universe Crystal"
 
 The official website (**universecrystal.org**) reached the top position in Google search results for the brand keyword **"Universe Crystal"** on some devices, marking an important milestone in the project's online presence. Rankings are continuing to stabilize across devices and regions.
 
-### July 29, 2026
+---
 
-#### Google Analytics Integrated
+## Project Log 004
+
+**Date:** July 29, 2026
+
+### Google Analytics Integrated
 
 Google Analytics 4 was integrated into the official website, enabling long-term analysis of visitors, traffic sources, and user engagement.
 
-#### Google Search Console Linked
+### Google Search Console Linked
 
 The official website was successfully linked with Google Search Console, allowing search performance and indexing to be monitored from a unified platform.
 
-#### Google Search Still Pending
+### Google Search Still Pending
 
 The official website was not yet returned by Google Search for the query **"Universe Crystal"** after the domain migration.
- Search indexing and domain transition remained in progress.
 
-#### Investigating an Unusual Traffic Pattern
+Search indexing and domain transition remained in progress.
+
+### Investigating an Unusual Traffic Pattern
 
 While reviewing GitHub repository statistics, an unexpected pattern was observed:
 
@@ -44,12 +76,14 @@ While reviewing GitHub repository statistics, an unexpected pattern was observed
 - Unique Visitors: **11**
 
 The significant gap raised questions about how users were finding the repository and became the starting point for a broader effort to improve the project's website, SEO, and analytics.
- 
+
 ---
 
-### July 28, 2026
+## Project Log 003
 
-#### Migrating to the Official Domain
+**Date:** July 28, 2026
+
+### Migrating to the Official Domain
 
 The project moved from the original GitHub Pages address to its permanent home at:
 
@@ -61,40 +95,45 @@ This marked the establishment of the project's long-term public identity on the 
 
 ---
 
-### July 27, 2026
+## Project Log 002
 
-#### Official Website Released
+**Date:** July 27, 2026
+
+### Official Website Released
 
 The first public version of the Universe Crystal website was officially released on GitHub Pages.
 
 Website:
+
 https://eaglejyjh.github.io/UniverseCrystal/
 
-#### Brand Search Visibility Improved
+### Brand Search Visibility Improved
 
 The official website frequently appeared as the first Google search result for the query **"Universe Crystal"**, indicating significant progress in search visibility following the website launch and content publication.
 
 ---
 
+## Project Log 001
 
-### July 20~26, 2026
+**Date:** July 16, 2026
 
-#### Building the Official Website
+### The Beginning of Public Communication
 
-Development of the official website for the Universe Crystal Project began.
+Following the completion of the project's foundational research, the first Medium article, **"Why I Started Universe Crystal Project,"** was published.
 
-The project adopted GitHub Pages with Markdown as its publishing platform, providing a lightweight and maintainable solution that allowed research content to be updated with minimal overhead.
-
-During evenings and over the weekend, the initial website structure, navigation, publications, and core content pages were completed, laying the foundation for the project's public presence.
+This marked the beginning of Universe Crystal's public communication, introducing the Discovery Series to explain the framework step by step to a broader audience.
 
 ---
 
+## Project Log 000
 
-### July 16, 2026
+**Date:** Before July 16, 2026
 
-#### The First Public Article
+### Foundation Established
 
-The original plan was to publish Universe Crystal on Reddit. After discovering that a newly created Reddit account could not post immediately, I shifted to Medium instead. That unexpected decision led to the publication of the first article, "Why I Started Universe Crystal Project," which became the project's first public introduction.
+Completed the foundational research of the Universe Crystal Project, including the Canonical Baseline, the Research Report, and the core scientific-philosophical framework.
+
+With the foundation established, the project was ready to move beyond internal research and begin public communication.
 
 ---
 
