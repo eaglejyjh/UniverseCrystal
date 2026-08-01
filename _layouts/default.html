@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {% seo %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+
+<section class="page-header">
+  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+
+  {% if site.description %}
+  <h2 class="project-tagline">{{ site.description }}</h2>
+  {% endif %}
+</section>
+
+<section class="main-content">
+
+{{ content }}
+
+<hr>
+
+<h2>Reviews & Discussion</h2>
+
+<p>
+We welcome constructive feedback, questions, and academic discussion.
+</p>
+
+<!-- Giscus -->
+<script src="https://giscus.app/client.js"
+        data-repo="eaglejyjh/UniverseCrystal"
+        data-repo-id="R_kgDOTZcbQg"
+        data-category="Reviews"
+        data-category-id="DIC_kwDOTZcbQs4DCa7C"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<footer class="site-footer">
+
+<hr>
+
+<p>
+© 2026 Universe Crystal Project
+</p>
+
+</footer>
+
+</section>
+
+</body>
+</html>
