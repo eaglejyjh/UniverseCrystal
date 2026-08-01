@@ -76,16 +76,6 @@ Learn about the copyright, licensing terms, and citation guidelines for the Univ
 
 ---
 
-## Feedback
-
-We welcome questions, comments, and academic discussion.
-
-- **Website Discussion:** Available at the bottom of every page (GitHub sign-in required)
-- **Medium:** https://medium.com/@jerry.jiangheng
-- **Email:** jerry.jiangheng@gmail.com
-
----
-
 ## Author
 
 **Heng Jiang**
