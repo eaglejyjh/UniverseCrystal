@@ -41,5 +41,3 @@ Official publications are released in versioned editions. Each release represent
 ## Future Releases
 
 Future official releases will continue to be published through the Universe Crystal GitHub repository.
-
-© 2026–Present Heng Jiang · Universe Crystal
