@@ -28,6 +28,7 @@ Earlier versions of these articles were first published on Medium to invite publ
 
 ### Part 7 — [Why Does Self-Closed Propagation Become Existence?](site/discovery/part-07.md)
 
+### Part 8 — [Can the Standard Model of Elementary Particles Be Described Through Universe Crystal?](site/discovery/part-08.md)
 ---
 
 © 2026–Present Heng Jiang · Universe Crystal
