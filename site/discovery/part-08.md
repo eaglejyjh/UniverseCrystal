@@ -156,7 +156,8 @@ The research gradually evolves into a broader exploration of whether the fundame
 
 From this point forward, the focus moves beyond establishing organizational hierarchies toward a larger objective:
 
-> **To explore whether the fundamental phenomena of modern physics can be systematically described through the language of Universe Crystal.**
+**To explore whether the fundamental phenomena of modern physics can be systematically described through the language of Universe Crystal.**
+
 ---
 
 ## Discussion
@@ -172,5 +173,3 @@ An earlier version was first published on Medium, where readers are welcome to j
 [← Part 7](part-07.md) | [Discovery Series](../../series.md)
 
 ---
-
-© 2026–Present Heng Jiang · Universe Crystal
