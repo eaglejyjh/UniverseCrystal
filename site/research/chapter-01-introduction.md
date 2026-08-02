@@ -111,5 +111,3 @@ The purpose of this report is not to document the historical development of the 
 [← Preface](preface.md) | [Research Report](index.md) | [Chapter 2 →](chapter-02-philosophical-foundations.md)
 
 ---
-
-© Universe Crystal Project
