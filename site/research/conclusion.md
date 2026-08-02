@@ -55,5 +55,3 @@ Future research will continue through independent research projects while preser
 [← Chapter 11](chapter-11-crystal-evolution.md) | [Research Report](index.md)
 
 ---
-
-© Universe Crystal Project
