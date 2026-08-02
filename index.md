@@ -2,7 +2,7 @@
 title: Universe Crystal
 ---
 
-### What Is Universe Crystal? [More...](about.md)
+### [What Is Universe Crystal?](about.md)
 
 Universe Crystal is a long-term original research project dedicated to exploring the evolving universe as a whole through A Grand View.
 
