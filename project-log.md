@@ -135,4 +135,4 @@ With the core framework now established, the project will gradually shift from t
 
 ---
 
-© 2026 Universe Crystal Project
+© 2026–Present Heng Jiang · Universe Crystal
