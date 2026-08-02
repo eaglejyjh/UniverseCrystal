@@ -201,5 +201,3 @@ Rather, they are local manifestations of stable organizational closure within th
 [← Chapter 4](chapter-04-open-texture.md) | [Research Report](index.md) | [Chapter 6 →](chapter-06-organization-hierarchy.md)
 
 ---
-
-© Universe Crystal Project
