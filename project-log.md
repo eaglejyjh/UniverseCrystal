@@ -134,5 +134,3 @@ Completed the foundational framework from Open Texture to Second Level Organizat
 With the core framework now established, the project will gradually shift from the Discovery Series, which documented the journey of building the framework, to Universe Crystal Essays, where each essay explores a single scientific-philosophical question through the established Universe Crystal framework.
 
 ---
-
-© 2026–Present Heng Jiang · Universe Crystal
