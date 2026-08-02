@@ -176,6 +176,3 @@ It emerges from organization and is understood as the macroscopic geometric mani
 [← Chapter 6](chapter-06-organization-hierarchy.md) | [Research Report](index.md) | [Chapter 8 →](chapter-08-time.md)
 
 ---
-
-© Universe Crystal Project
-```
