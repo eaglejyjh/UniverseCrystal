@@ -283,5 +283,3 @@ Open Texture therefore constitutes both the **Fundamental Organizational Texture
 [← Chapter 3](chapter-03-core-axioms.md) | [Research Report](index.md) | [Chapter 5 →](chapter-05-stable-closed-texture.md)
 
 ---
-
-© Universe Crystal Project
