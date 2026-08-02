@@ -48,5 +48,3 @@ For copyright, licensing, or permission inquiries, please contact:
 Email: <jerry.jiangheng@gmail.com>
 
 ---
-
-© 2026–Present Heng Jiang · Universe Crystal
