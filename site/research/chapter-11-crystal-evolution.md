@@ -211,5 +211,3 @@ Universe Crystal presents the universe as an integrated organizational whole tha
 [← Chapter 10](chapter-10-degrees-of-organization.md) | [Research Report](index.md) | [Conclusion →](conclusion.md)
 
 ---
-
-© Universe Crystal Project
