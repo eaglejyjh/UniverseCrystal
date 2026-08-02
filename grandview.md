@@ -81,13 +81,3 @@ When an organization reaches **Stable Closure**, it acquires sufficient internal
 Identity therefore emerges from organizational stability rather than existing independently of organization.
 
 ---
-
-## Learn More
-
-The ideas presented in the Grand View are further developed in the following official publications.
-
-- **Universe Crystal Canonical Baseline**
-- **Universe Crystal Foundation Research Report**
-
-© 2026–Present Heng Jiang · Universe Crystal
-
