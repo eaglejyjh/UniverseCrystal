@@ -92,4 +92,4 @@ Contact:
 
 ---
 
-© 2026 Universe Crystal Project
+© 2026–Present Heng Jiang · Universe Crystal
