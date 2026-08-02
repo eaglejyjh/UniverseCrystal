@@ -30,4 +30,4 @@ Earlier versions of these articles were first published on Medium to invite publ
 
 ---
 
-© 2026 Universe Crystal Project
+© 2026–Present Heng Jiang · Universe Crystal
