@@ -163,5 +163,3 @@ An earlier version was first published on Medium, where readers are welcome to j
 [← Part 5](part-05.md) | [Discovery Series](../../series.md) | [Part 7 →](part-07.md)
 
 ---
-
-© 2026–Present Heng Jiang · Universe Crystal
