@@ -224,6 +224,3 @@ It is an emergent organizational property resulting from the continuing developm
 [← Chapter 7](chapter-07-space.md) | [Research Report](index.md) | [Chapter 9 →](chapter-09-organizational-reading.md)
 
 ---
-
-© Universe Crystal Project
-```
