@@ -154,8 +154,8 @@ An earlier version was first published on Medium, where readers are welcome to j
 
 ---
 
-[← Part 6](part-06.md) | [Discovery Series](../../series.md)
+[← Part 6](part-06.md) | [Discovery Series](../../series.md) | [Part 8 →](part-08.md)
 
 ---
 
-© 2026 Universe Crystal Project
+© 2026–Present Heng Jiang · Universe Crystal
