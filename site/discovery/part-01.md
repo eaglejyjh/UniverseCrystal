@@ -75,4 +75,4 @@ Comments, questions, and constructive feedback are welcome.
 
 ---
 
-© 2026 Universe Crystal Project
+© 2026–Present Heng Jiang · Universe Crystal
