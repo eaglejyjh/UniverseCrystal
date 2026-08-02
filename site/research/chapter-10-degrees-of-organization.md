@@ -221,5 +221,3 @@ Accordingly,
 [← Chapter 9](chapter-09-organizational-reading.md) | [Research Report](index.md) | [Chapter 11 →](chapter-11-crystal-evolution.md)
 
 ---
-
-© Universe Crystal Project
