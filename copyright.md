@@ -49,4 +49,4 @@ Email: <jerry.jiangheng@gmail.com>
 
 ---
 
-© 2026 Universe Crystal Project. All rights reserved.
+© 2026–Present Heng Jiang · Universe Crystal
