@@ -239,5 +239,3 @@ It is through this concept that Universe Crystal achieves a unified organization
 [← Chapter 8](chapter-08-time.md) | [Research Report](index.md) | [Chapter 10 →](chapter-10-degrees-of-organization.md)
 
 ---
-
-© Universe Crystal Project
