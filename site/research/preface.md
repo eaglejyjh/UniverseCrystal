@@ -29,5 +29,3 @@ For this reason, the present report is written in the style of a philosophical r
 [Research Report](index.md) | [Chapter 1 →](chapter-01-introduction.md)
 
 ---
-
-© Universe Crystal Project
