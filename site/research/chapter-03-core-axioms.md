@@ -176,5 +176,3 @@ Building upon these axioms, the following chapters introduce the **First-Princip
 [← Chapter 2](chapter-02-philosophical-foundations.md) | [Research Report](index.md) | [Chapter 4 →](chapter-04-open-texture.md)
 
 ---
-
-© Universe Crystal Project
