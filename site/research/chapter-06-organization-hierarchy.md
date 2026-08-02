@@ -203,5 +203,3 @@ The richness of the universe arises not from an ever-growing collection of funda
 [← Chapter 5](chapter-05-stable-closed-texture.md) | [Research Report](index.md) | [Chapter 7 →](chapter-07-space.md)
 
 ---
-
-© Universe Crystal Project
