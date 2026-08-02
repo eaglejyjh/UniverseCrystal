@@ -132,5 +132,3 @@ Together, these philosophical principles provide the conceptual foundation upon 
 [← Chapter 1](chapter-01-introduction.md) | [Research Report](index.md) | [Chapter 3 →](chapter-03-core-axioms.md)
 
 ---
-
-© Universe Crystal Project
