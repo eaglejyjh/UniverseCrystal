@@ -91,5 +91,3 @@ Contact:
 - Medium: [@jerry.jiangheng](https://medium.com/@jerry.jiangheng)
 
 ---
-
-© 2026–Present Heng Jiang · Universe Crystal
