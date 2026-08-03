@@ -8,7 +8,17 @@ A chronological record of major activities, discoveries, and milestones in the d
 
 ## 2026
 
-### Before July 16, 2026
+### 27 June 2026
+
+#### Project Log B.C.001 · Original Intuition
+
+Published the science-philosophy essay **"The Universe Is a Timeless Crystal"** on Zhihu.
+
+Presented the initial Grand View together with the earliest forms of the project's foundational concepts and research principles, including Wholeness, Historical Non-removability, and a framework-oriented perspective. The essay also raised the question of how such a Universe Crystal could be woven.
+
+---
+
+### 28 June - July 16, 2026
 
 #### Project Log 000 · Foundation Established
 
