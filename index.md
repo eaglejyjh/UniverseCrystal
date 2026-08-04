@@ -33,6 +33,12 @@ Based on the current Canonical Baseline, the report systematically introduces th
 Follow the official Universe Crystal Discovery Series, which documents the project's discovery journey and gradually introduces its ideas, conceptual framework, and research philosophy.
 
 ---
+### [Universe Crystal Essays](site/essays/index.md)
+
+Explore the Universe Crystal Essays, which apply the established framework to fundamental scientific and philosophical questions.
+The Essays test and extend the explanatory power of the Universe Crystal Framework through applications to fundamental scientific and philosophical questions.
+
+---
 ### [Publications & Downloads](releases.md)
 
 Download the official publications of the Universe Crystal Project, including the Canonical Baseline, Foundation Research Report, Official Glossary, Official Terminology, and other versioned releases.
