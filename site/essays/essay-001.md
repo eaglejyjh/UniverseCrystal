@@ -202,6 +202,10 @@ Texture never became just another concept within Universe Crystal.
 
 Quietly, it became the language through which the entire framework could be woven.
 
+**Read and comment on Medium:**
+
+[Why Texture Is the Most Elegant Idea in Universe Crystal](https://medium.com/@jerry.jiangheng/universe-crystal-essays-001-why-texture-is-the-most-elegant-idea-in-universe-crystal-eccc51312067?sharedUserId=jerry.jiangheng)
+
 ---
 
 [← Essay 000](essay-000.md) | [Universe Crystal Essays](index.md)
