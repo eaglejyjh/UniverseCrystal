@@ -205,5 +205,23 @@
     <priority>0.8</priority>
   </url>
 
-
+    <url>
+    <loc>https://universecrystal.org/site/essays/index.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+        </url>
+  
+   <url>
+    <loc>https://universecrystal.org/site/essays/essay-000.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+        </url>
+    <url>
+    <loc>https://universecrystal.org/site/essays/essay-001.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+        </url>
 </urlset>
