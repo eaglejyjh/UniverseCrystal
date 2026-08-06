@@ -37,7 +37,7 @@ Future theoretical developments are conducted as independent research and may be
 
 The current official release is:
 
-**Universe Crystal Canonical Baseline V1.8**
+**Universe Crystal Canonical Baseline V2.0**
 
 ## Author
 
