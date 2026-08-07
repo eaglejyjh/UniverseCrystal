@@ -21,6 +21,13 @@ Explore the Grand View that guides the project and explains why the evolving uni
 Explore the conceptual framework of Universe Crystal, including Open Texture, Organization, Stable Closure, Identity, and other foundational concepts.
 
 ---
+### [Universe Crystal Research Methodology](methodology.md)
+
+Explore the open and iterative research methodology of the Universe Crystal Project.
+
+Inspired by open source project development, Universe Crystal adopts an open, transparent, and continuously evolving research process that emphasizes iterative refinement, public communication, and long-term conceptual development.
+
+---
 ### [Universe Crystal Research Report](site/research/index.md)
 
 The **Universe Crystal Research Report** presents the project's current philosophical framework for understanding the organizational structure of the evolving universe as an integrated whole.
