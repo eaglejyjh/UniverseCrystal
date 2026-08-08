@@ -30,4 +30,8 @@ Earlier versions of these articles were first published on Medium to invite publ
 
 ### Part 8 — [Can the Standard Model of Elementary Particles Be Described Through Universe Crystal?](site/discovery/part-08.md)
 
+### Part 9 — [How Does Organizational Weaving Give Rise to Electric Charge?](site/discovery/part-09.md)
+
+### Part 10 — [What Is Spin in Universe Crystal?](site/discovery/part-10.md)
+
 ---
