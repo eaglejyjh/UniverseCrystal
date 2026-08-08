@@ -4,7 +4,7 @@ title: Universe Crystal
 
 [🏠 Home](../../index.md) | [← Discovery Series](../../series.md)
 
-# ow Does Organizational Weaving Give Rise to Electric Charge?
+# How Does Organizational Weaving Give Rise to Electric Charge?
 
 *Universe Crystal Discovery Series — Part 9*
 
@@ -201,6 +201,6 @@ An earlier version was first published on Medium, where readers are welcome to j
 
 ---
 
-[← Part 8](part-08.md) | [Discovery Series](../../series.md) | [Part108 →](part-10.md)
+[← Part 8](part-08.md) | [Discovery Series](../../series.md) | [Part10 →](part-10.md)
 
 ---
