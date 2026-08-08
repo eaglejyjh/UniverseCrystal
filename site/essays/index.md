@@ -6,8 +6,6 @@ The **Universe Crystal Essays** explore how the Universe Crystal Framework can b
 
 ---
 
-## Essays
-
 ### Essay 000 — [The Prequel](essay-000.md)
 
 ### Essay 001 — [Why Texture Is the Most Elegant Idea in Universe Crystal](essay-001.md)
