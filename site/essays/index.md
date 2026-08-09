@@ -10,4 +10,8 @@ The **Universe Crystal Essays** explore how the Universe Crystal Framework can b
 
 ### Essay 001 — [Why Texture Is the Most Elegant Idea in Universe Crystal](essay-001.md)
 
+### Essay 002 — [Where Does Color Charge Live in Universe Crystal?](essay-002.md)
+
+### Essay 003 — [Color Charge as a Relational Phase of Second-Level Weaving](essay-003.md)
+
 ---
