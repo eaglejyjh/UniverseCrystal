@@ -543,4 +543,4 @@ This gives Universe Crystal a more unified way to investigate why elementary par
 [Color Charge as a Relational Phase of Second-Level Weaving](https://medium.com/@jerry.jiangheng/universe-crystal-essay-003-color-charge-as-a-relational-phase-of-second-level-weaving-a-further-631a1ba8d884)
 ---
 
-[← Essay 002](essay-002.md) | [Universe Crystal Essays](index.md)
+[← Essay 002](essay-002.md) | [Universe Crystal Essays](index.md) |  [Essay 004 →](essay-004.md)
