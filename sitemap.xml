@@ -207,7 +207,7 @@
 
     <url>
     <loc>https://universecrystal.org/site/essays/index.html</loc>
-    <lastmod>2026-08-11</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
         </url>
@@ -294,6 +294,13 @@
     <priority>0.8</priority>
         </url>
 
+
+    <url>
+    <loc>https://universecrystal.org/site/essays/essay-008.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+        </url>
 
   
   
