@@ -22,4 +22,6 @@ The **Universe Crystal Essays** explore how the Universe Crystal Framework can b
 
 ### Essay 007 — [What Is Spin and Quantum Superposition in Universe Crystal?](essay-007.md)
 
+### Essay 008 — [From Phase Synchronization to Entanglement](essay-008.md)
+
 ---
