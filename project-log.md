@@ -169,3 +169,15 @@ As a result, the Canonical Baseline has advanced from V2.0 to V2.1.
 
 ---
 
+### Aug. 16, 2026
+
+#### Project Log 016 · From Texture to Second-Level Organization
+
+The framework research from Texture to Second-Level Organization has reached a milestone. The Essay series for this stage is now complete, and its research conclusions have been incorporated into Canonical Baseline V2.9.
+
+The next research phase will focus on Third-Level Organization and how higher-level organization forms the structures of the physical world.
+
+Before beginning that phase, the project will first complete the current stage through the Discovery series, presenting the key discoveries from the completed research phase.
+
+---
+
