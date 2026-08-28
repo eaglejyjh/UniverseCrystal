@@ -34,4 +34,8 @@ Earlier versions of these articles were first published on Medium to invite publ
 
 ### Part 10 — [What Is Spin in Universe Crystal?](site/discovery/part-10.md)
 
+### Part 11 — [How Do Three Quarks Weave a Proton or Neutron?](site/discovery/part-11.md)
+
+### Part 12 — [The Emergence of Space from Relation and Organization](site/discovery/part-12.md)
+
 ---
