@@ -152,6 +152,6 @@ This is the beauty of Interlocking Texture.
 
 ---
 
-[← Part 10](part-10.md) | [Discovery Series](../../series.md)
+[← Part 10](part-10.md) | [Discovery Series](../../series.md) | [Part 12 →](part-12.md)
 
 ---
