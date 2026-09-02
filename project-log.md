@@ -194,3 +194,20 @@ This marks a transition from internal theoretical development to open academic e
 
 ---
 
+### Sep. 02, 2026
+
+#### Project Log 018 · First Publications on PhilPapers
+
+The first two papers of the Universe Crystal research project have now been accepted and indexed by PhilPapers, appearing in the author's Publications:
+
+[Organization, Closure, and the Emergence of Existence ](https://philpapers.org/rec/JIAOCA)
+
+[Re-Propagation, Interlocking Texture, and Collective Closure](https://philpapers.org/rec/JIARIT)
+
+This marks the project's first formal entry into an established academic research platform.
+
+The significance is not only that the papers have been published, but that Universe Crystal has begun to engage with existing philosophical research through a public scholarly record.
+
+The next phase will build on this foundation by connecting the framework more directly with existing work, particularly in philosophy of physics and quantum ontology.
+
+---
