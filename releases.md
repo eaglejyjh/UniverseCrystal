@@ -23,5 +23,5 @@ Research documents and academic papers from the Universe Crystal Project.
 
 | Title | Status | Date | Link |
 |---|:---:|:---:|:---:|
-| Organization, Closure, and the Emergence of Existence | Preprint | 2026 | [PhilPapers](https://philpapers.org/rec/JIAOCA) |
-| Re-Propagation, Interlocking Texture, and Collective Closure | Preprint | 2026 | [PhilPapers](https://philpapers.org/rec/JIARIT) |
+| Organization, Closure, and the Emergence of Existence | Preprint | 2026.09 | [PhilPapers](https://philpapers.org/rec/JIAOCA) |
+| Re-Propagation, Interlocking Texture, and Collective Closure | Preprint | 2026.09 | [PhilPapers](https://philpapers.org/rec/JIARIT) |
