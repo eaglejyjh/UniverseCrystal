@@ -8,7 +8,7 @@
 
 ---
 
-# Life notes
+# My Life Notes
 
 ---
 
