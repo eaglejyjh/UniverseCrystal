@@ -63,6 +63,13 @@ The Project Log records the evolution of the project itself, including website d
 Learn about the copyright, licensing terms, and citation guidelines for the Universe Crystal Project.
 
 ---
+### [My Life Notes 生活随笔](site/life-notes/index.md)
+
+Personal reflections on research, life, curiosity, and the questions that lead to unexpected journeys.
+
+记录关于研究、生活、好奇心，以及那些引领我们走向意想不到旅程的问题的个人思考
+
+---
 ### Author
 
 **Heng Jiang**, Founder of the **Universe Crystal Project**.
