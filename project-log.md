@@ -211,3 +211,29 @@ The significance is not only that the papers have been published, but that Unive
 The next phase will build on this foundation by connecting the framework more directly with existing work, particularly in philosophy of physics and quantum ontology.
 
 ---
+
+### Sep. 05, 2026
+
+#### Project Log 019 · Three Journal Submissions
+
+As of September 5, 2026, three papers have been submitted to peer-reviewed journals across philosophy and theoretical physics.
+
+1. Philosophy — The Emergence of Spatiality from Relational Organization
+Submitted to Foundations of Science. The paper examines the ontology of space and how spatiality may emerge from relational organization. It is positioned as a philosophical/ontological study, not a physical model.
+
+2. Theoretical Physics — Primary Organization from Open Textures: A Relational-Dynamical Model
+Submitted to Communications in Theoretical Physics (CTP). The paper develops a theoretical model of primary organization from open textures through three complementary modules: phase synchronization, discrete spectral closure, and spatial localization. It is not presented as a complete electron theory or a replacement for QFT.
+
+3. Natural Philosophy — Closure and Reading: A Natural-Philosophical Interpretation of Quantum Phenomena
+Submitted to Studies in History and Philosophy of Science. The paper develops a natural-philosophical interpretation of quantum phenomena centered on the distinction between organizational closure and measurement reading.
+
+Common Objective
+
+All three submissions serve a common practical purpose:
+
+To test whether original philosophical and theoretical-physical ideas developed by an independent researcher without formal training in these disciplines can pass editorial screening and reach external peer review.
+
+The objective at this stage is not to establish the correctness of the ideas, but to obtain professional academic evaluation of whether they are sufficiently coherent, relevant, and substantive to enter peer review.
+
+
+---
