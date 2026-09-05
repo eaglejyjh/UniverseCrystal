@@ -235,5 +235,14 @@ To test whether original philosophical and theoretical-physical ideas developed 
 
 The objective at this stage is not to establish the correctness of the ideas, but to obtain professional academic evaluation of whether they are sufficiently coherent, relevant, and substantive to enter peer review.
 
+---
+
+#### Project Log 020 · My Life Notes Added
+
+Added a new My Life Notes section to the Universe Crystal website.
+
+The section provides a space for personal reflections on research, life, curiosity, and the questions that lead to unexpected journeys.
+
+Unlike the project's research documents and academic papers, My Life Notes is intended to capture the personal side of the research journey and the thoughts behind it.
 
 ---
