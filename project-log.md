@@ -246,3 +246,21 @@ The section provides a space for personal reflections on research, life, curiosi
 Unlike the project's research documents and academic papers, My Life Notes is intended to capture the personal side of the research journey and the thoughts behind it.
 
 ---
+
+### Sep. 14, 2026
+
+#### Project Log 021 · Publication Status
+
+The current publication phase has resulted in two active submissions, while the other submitted manuscripts have been rejected.
+
+1. "Organization, Closure, and the Emergence of Entity-Like Existence"
+Journal: MetaScientia HPS
+Submission Date: 14 September 2026
+Status: Under editorial assessment
+
+2. "Closure and Reading: A Natural-Philosophical Interpretation of Quantum Phenomena"
+Journal: Studies in History and Philosophy of Science
+Submission Date: 05 September 2026
+Status: Under editorial assessment
+
+---
