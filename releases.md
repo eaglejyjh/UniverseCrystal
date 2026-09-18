@@ -25,3 +25,7 @@ Research documents and academic papers from the Universe Crystal Project.
 |---|:---:|:---:|:---:|
 | Organization, Closure, and the Emergence of Existence | Preprint | 2026.09 | [PhilPapers](https://philpapers.org/rec/JIAOCA) |
 | Re-Propagation, Interlocking Texture, and Collective Closure | Preprint | 2026.09 | [PhilPapers](https://philpapers.org/rec/JIARIT) |
+| The Emergence of Spatiality from Relational Organization | Preprint | 2026.09 | [Philpapers](https://philpapers.org/rec/JIATEO-9) |
+| Closure and Reading: A Natural-Philosophical Interpretation of Quantum Phenomena | Preprint | 2026.09 | [Philpapers](https://philpapers.org/rec/JIACAR)
+
+---
