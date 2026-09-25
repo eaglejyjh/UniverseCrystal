@@ -24,4 +24,9 @@ The **Universe Crystal Essays** explore how the Universe Crystal Framework can b
 
 ### Essay 008 — [From Phase Synchronization to Entanglement](essay-008.md)
 
+### Essay 009 — [How Residual Closure in Interlocking Texture Forms the Atomic Nucleus?](essay-009.md)
+
+### Essay 010 — [How Electron Re-Propagation Forms the Atom?](essay-010.md)
+
+
 ---
