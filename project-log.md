@@ -264,3 +264,15 @@ Submission Date: 05 September 2026
 Status: Under editorial assessment
 
 ---
+
+### Oct. 01, 2026
+
+#### Project Log 022 · Early Global Dissemination: Public + Academic
+
+The project is beginning to show two parallel dissemination signals. Google Search Console records search exposure across 45 countries/regions over the past 3 months, with several countries already moving beyond the earlier 1–2 impression stage: US 66, Russia 15, India 13, Bangladesh 12, UK 12, Japan 7. This suggests that public/web visibility is gradually expanding geographically.
+
+At the same time, PhilPeople shows recurring academic-platform visits from 23–28 Sep, including multiple locations such as Princeton, Santa Clara, Dallas and Newark, with visits reaching the research profile and multiple papers including The Emergence of Spatiality, Closure, and Re-Propagation.
+
+Signal: The project is moving beyond isolated exposure toward broadening public visibility and emerging sustained academic dissemination, with both channels now showing geographically distributed activity.
+
+---
